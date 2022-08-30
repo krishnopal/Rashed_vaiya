@@ -5,12 +5,12 @@ body {
 }
 
 a {
-    color: #ff0ecb;
+    color: #46760a;
     text-decoration: none;
 }
 
 a:hover {
-    color: #ff0ecb;
+    color: #345905;
     text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #ff0ecb;
+    background: #6bab42;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -49,7 +49,7 @@ h6 {
 }
 
 .back-to-top:hover {
-    background: #ff0ecb;
+    background: #2b6606;
     color: #fff;
 }
 
@@ -132,12 +132,12 @@ h6 {
     transition: all 0.5s;
     padding: 15px;
     overflow-y: auto;
-    background: #ffdced;
+    background: #9af6b2;
 }
 
 .image-size {
     padding: 8px;
-    border: 2px solid #ff0fcb;
+    border: 2px solid #6bab42;
     border-radius: 10px;
 }
 
@@ -232,7 +232,7 @@ h6 {
 .nav-menu .active,
 .nav-menu li:hover>a {
     color: #fff;
-    background: #ff0ecb;
+    background: #13b60c;
 }
 
 .nav-menu a:hover span,
@@ -321,7 +321,7 @@ h6 {
     width: 80%;
     height: 400px;
     padding: 10px;
-    border: 5px solid #ff0fcb;
+    border: 5px solid #4ebe06;
     border-radius: 50%;
 }
 
@@ -351,7 +351,7 @@ h6 {
 }
 
 #hero p span {
-    color: #ff0ecb;
+    color: #4ec700;
     letter-spacing: 1px;
 }
 
@@ -370,7 +370,7 @@ h6 {
 }
 
 #hero .social-links a:hover {
-    background: #ff0ecb;
+    background: #49aa0c;
     padding: 7px;
     border-radius: 50%;
     color: #fff;
@@ -400,7 +400,7 @@ h6 {
 section {
     padding: 20px 0;
     overflow: hidden;
-    background: #ffdced;
+    background: #9af6b2;
 }
 
 .section-title {
@@ -435,7 +435,7 @@ section {
     display: block;
     width: 40px;
     height: 3px;
-    background: #ff0ecb;
+    background: #43a604;
     bottom: 0;
     left: calc(50% - 20px);
 }
@@ -473,7 +473,7 @@ section {
 .about .content ul i {
     font-size: 16px;
     margin-right: 5px;
-    color: #ff0ecb;
+    color: #317c00;
     line-height: 0;
 }
 
@@ -560,7 +560,7 @@ section {
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #ff0ecb;
+    background-color: #4fc106;
 }
 
 
@@ -1080,7 +1080,7 @@ section {
 
 .contact .info i {
     font-size: 20px;
-    color: #ff0ecb;
+    color: #459f0b;
     float: left;
     width: 44px;
     height: 44px;
@@ -1115,7 +1115,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-    background: #ff0ecb;
+    background: #3e9607;
     color: #fff;
 }
 
@@ -1186,7 +1186,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-    background: #ff0ecb;
+    background: #6bab42;
     border: 0;
     padding: 10px 35px;
     color: #fff;
@@ -1195,7 +1195,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-    background: #ff0ecb;
+    background: #2b6606;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1222,7 +1222,7 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-    background: #ffdcee;
+    background: #9af6b2;
     color: #45505b;
     font-size: 14px;
     text-align: center;
@@ -1252,7 +1252,7 @@ section {
 #footer .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #ff0ecb;
+    background: #6bab42;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
@@ -1265,7 +1265,7 @@ section {
 }
 
 #footer .social-links a:hover {
-    background: #ff0ecb;
+    background: #2b6606;
     color: #fff;
     text-decoration: none;
 }
